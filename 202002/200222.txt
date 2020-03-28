@@ -1,0 +1,7 @@
+
+1. maven과 gradle 차이
+
+https://okky.tistory.com/179
+
+2. telnet이란?
+

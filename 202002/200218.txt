@@ -1,0 +1,21 @@
+
+
+
+
+
+1. 로그인시 shift+Enter 누르면 새창으로 열린다
+
+2. size와 length 차이
+https://solbel.tistory.com/310
+
+
+
+
+---- 회사에서 한것
+
+1. 자바 버전 명칭
+https://post.naver.com/viewer/postView.nhn?volumeNo=22725606&memberNo=25379965
+
+2. 자바 Run 했을 떄 editor does not contain a main type 라고 뜨는 에러
+
+3. 잘라내기(Ctrl +X): 현재선택한걸 지우고 클립보드에 복사(붇여넣기를 이용해서 다른곳에 옮길수있음)

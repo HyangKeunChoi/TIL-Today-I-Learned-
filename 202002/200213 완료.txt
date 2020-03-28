@@ -1,0 +1,23 @@
+1. 컴파일과 빌드
+https://freezboi.tistory.com/39
+https://m.blog.naver.com/PostView.nhn?blogId=ssdyka&logNo=221494190411&proxyReferer=https%3A%2F%2Fwww.google.com%2F
+http://wiki.gurubee.net/pages/viewpage.action?pageId=26740432
+https://itholic.github.io/qa-compile-build-deploy/
+https://opentutorials.org/module/1594/9734
+http://tedock.blogspot.com/2015/09/maven.html
+
+2. CI/CD
+https://itholic.github.io/qa-cicd/
+
+- 참고 : https://itholic.github.io/qa-build-automation/
+
+
+3. QA??
+
+https://itholic.github.io/qa-what-is-qa/
+
+
+입문자용 Spring책 - 구멍가게코딩단 : 코드로배우는~   OR   스프링 퀵 스타트 중 하나 읽기
+
+4. 메이븐을 사용하는 이유
+https://addio3305.tistory.com/33 

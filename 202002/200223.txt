@@ -1,0 +1,26 @@
+
+1. 배치 파일 : 자주 반복하여 실행할 명령어를 순차적으로 기록하여 놓은 파일. 이 파일을 실행하면 기록된 순서에 따라 명령어가 모두 실행된다.
+
+2. 이클립스 - 리소스 : 정적인 파일 담아 놓는곳 : 이미지, JS, CSS, properties등등??? - kh메모에는 그렇게 적혀있음 
+
+3. 사이트 매쉬란?
+
+
+4. 나온 가이드에서 -- Vo 개념
+VO(Value Object)는 데이터 전송객체로서 테이블에 저장되는  엔티티 클래스가 아님. 
+단순히 Client와 Server간에 데이터를 주고 받기 위한 용도로 사용하는 객체를 말함. 
+ 주로 목록형태의 데이터를 가져오거나 화면에서 전송하는 데이터인 경우가 많음.
+
+5. 이클립스 버전에따라 sts가 검색되지 않을 경우
+-> 이클립스 버전이 안맞아서 설치 안되서 검색 안됨
+-> 수동설치도 안됨
+-> 버전 되는거로 보기
+https://iwan2fly.tistory.com/205
+https://coding-restaurant.tistory.com/103
+
+6. 소스코드 한글 깨짐현상
+
+preferences - workspace - text fiel encoding 부분에서 other - UTF-8로 바꾸기
+https://jmap.tistory.com/380
+
+7. 엑사아이엔티 면접보러갔을때  spring과 spring framework 다르다고 했는데 이유 찾아보기

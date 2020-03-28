@@ -1,0 +1,4 @@
+
+1. 파싱(pharsing)
+
+2. MongoDB  /  nosql

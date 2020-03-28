@@ -1,0 +1,7 @@
+
+1. &포함된 문자가 insert 안될때 
+
+https://cusmaker.tistory.com/108
+
+
+2. 반영하는법 / 디버깅 하는법 / oracle sqldeveloper 다루는법 등등 배움

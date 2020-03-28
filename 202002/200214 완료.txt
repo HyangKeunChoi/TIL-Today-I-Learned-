@@ -1,0 +1,35 @@
+1. 자바빈이란?
+https://m.blog.naver.com/PostView.nhn?blogId=start3535&logNo=30190419527&proxyReferer=https%3A%2F%2Fwww.google.com%2F
+
+2. RabbitMQ 란? 
+
+rabbit MQ 와 kafka 차이는? - 기록안함 ( rabbitMQ도 잘 모르겟음)
+
+
+
+3. james - java apache mail serve   r    - 기록안함- 잘안나옴 찾아봐도 / 
+
+
+
+4. PoJo란?
+https://simsimjae.tistory.com/213
+
+
+5. Ejb란?                                        - 안함
+
+6. ctrl +h와 ctrl+shift+R 차이             - 안함
+https://www.ddoong2.com/340
+
+7. 6번이어서 리소스란?                     - 안함
+
+8. 자바 아이콘 우측하단에 ? 뜨는이유
+https://xodgl2.tistory.com/6
+
+
+9. 자바 각 아이콘의 의미
+https://help.eclipse.org/2019-06/index.jsp?topic=/org.eclipse.jdt.doc.user/reference/ref-icons.htm
+
+11. 같은 단어 찾기 - 안함
+ctrl + k : 아래방향으로
+ctrl + shift + k : 윗 방향으로
+
