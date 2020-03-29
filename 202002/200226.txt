@@ -1,9 +1,0 @@
-
-1. 이클립스 메이븐 alt +f5(메이븐 업데이트)의 의미
-maven update
-
-2.  메이븐의 의미
- https://jeong-pro.tistory.com/168
-
-3. validating 이란
-https://victorydntmd.tistory.com/179
