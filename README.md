@@ -1,5 +1,7 @@
 # TIL(Today I Learn)
 
+[![HitCount](http://hits.dwyl.com/gidrms99@navercom/TIL-Today-I-Learned-.svg)](http://hits.dwyl.com/gidrms99@navercom/TIL-Today-I-Learned-)
+
 :book:  :pencil:  :pencil2: :clipboard:
 
 ### 저장 
