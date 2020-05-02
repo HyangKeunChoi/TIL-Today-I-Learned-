@@ -1,6 +1,6 @@
 # TIL(Today I Learn)
 
-[![HitCount](http://hits.dwyl.com/gidrms99@navercom/TIL-Today-I-Learned-.svg)](http://hits.dwyl.com/gidrms99@navercom/TIL-Today-I-Learned-)
+[![HitCount](http://hits.dwyl.com/gidrms99@navercom/TIL-Today-I-Learned-.svg)](http://hits.dwyl.com/gidrms99@navercom/TIL-Today-I-Learned-)  ![GitHub](https://img.shields.io/github/license/HyangKeunChoi/TIL-Today-I-Learned-)
 
 :book:  :pencil:  :pencil2: :clipboard:
 
