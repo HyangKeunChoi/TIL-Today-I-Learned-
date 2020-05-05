@@ -1,0 +1,7 @@
+1. 웹서버와 와스서버
+
++ 웹서버(Web Server) : 클라이언트로부터 HTTP요청을받아 정적인 컨텐츠(이미지, html,css등)을 제공하는 서버
+  - Ex) Apache Server, Nginx, IIS(Windows 전용 Web 서버) 등
+
++ 와스서버(Web Application Server) : DB처리나 다양한 로직처리를 요구하는 동적 컨텐츠를 제공하기 위한 서버
+  - Ex) Tomcat, JBoss, Jeus, Web Sphere 
