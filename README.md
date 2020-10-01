@@ -2,7 +2,7 @@
 
 [![HitCount](http://hits.dwyl.com/gidrms99@navercom/TIL-Today-I-Learned-.svg)](http://hits.dwyl.com/gidrms99@navercom/TIL-Today-I-Learned-)  ![GitHub](https://img.shields.io/github/license/HyangKeunChoi/TIL-Today-I-Learned-)
 
-:book:  :pencil:  :pencil2: :clipboard:
+:book:  :pencil:  :pencil2: :clipboard: 💡 
 
 ### 저장 
 
@@ -15,4 +15,4 @@
 ----------
 
 ### 그림으로 배우는 HTTP&NetWork Basic
-https://github.com/HyangKeunChoi/-HTTP-NetWork-Basic
+[그림으로 배우는 HTTP&NetWork Basic](https://github.com/HyangKeunChoi/-HTTP-NetWork-Basic)
