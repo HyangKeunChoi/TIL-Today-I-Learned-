@@ -24,6 +24,37 @@
 
 ## 자바
 
+[1주차 : JVM은 무엇이며 자바코드는 어떻게 실행하는 것인가](https://geunyang93.tistory.com/28)
+
+[2주차 : 자바 데이터 타입, 변수 그리고 배열](https://geunyang93.tistory.com/30)
+
+[3주차 : 연산자](https://geunyang93.tistory.com/32)
+
+[4주차 : 제어문](https://geunyang93.tistory.com/34)
+
+[5주차 : 클래스](https://geunyang93.tistory.com/35)
+
+[6주차 : 상속](https://geunyang93.tistory.com/39)
+
+[7주차 : 패키지](https://geunyang93.tistory.com/42)
+
+[8주차 : 인터페이스](https://geunyang93.tistory.com/44)
+
+[9주차 : 예외처리](https://geunyang93.tistory.com/45)
+
+[10주차 : 멀티쓰레드 프로그래밍](https://geunyang93.tistory.com/48)
+
+[11주차 : Enum](https://geunyang93.tistory.com/50)
+
+[12주차 : 애노테이션](https://geunyang93.tistory.com/54)
+
+13주차 : I/O
+
+14주차 : 제네릭
+
+[15주차 : 람다식](https://geunyang93.tistory.com/56)
+
+
 [자바8](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/tree/master/%EB%8D%94%20%EC%9E%90%EB%B0%948)
 
 [자바, 코드를 조작하는 방법](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/tree/master/%EB%8D%94%20%EC%9E%90%EB%B0%94%2C%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%A1%B0%EC%9E%91%ED%95%98%EB%8A%94%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EB%B0%A9%EB%B2%95)
