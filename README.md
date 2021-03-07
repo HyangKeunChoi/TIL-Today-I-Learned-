@@ -55,7 +55,7 @@
 [15주차 : 람다식](https://geunyang93.tistory.com/56)
 
 
-[자바8](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/tree/master/%EB%8D%94%20%EC%9E%90%EB%B0%948)
+[더 자바8](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/tree/master/%EB%8D%94%20%EC%9E%90%EB%B0%948)
 
 [자바, 코드를 조작하는 방법](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/tree/master/%EB%8D%94%20%EC%9E%90%EB%B0%94%2C%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%A1%B0%EC%9E%91%ED%95%98%EB%8A%94%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EB%B0%A9%EB%B2%95)
 
