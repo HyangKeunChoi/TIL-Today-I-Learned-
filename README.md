@@ -54,6 +54,7 @@
 
 [15주차 : 람다식](https://geunyang93.tistory.com/56)
 
+[라이브스터디 종료기념 리뷰](https://geunyang93.tistory.com/62)
 
 [더 자바8](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/tree/master/%EB%8D%94%20%EC%9E%90%EB%B0%948)
 
@@ -68,11 +69,15 @@
 
 [자료구조](https://github.com/HyangKeunChoi/Computer-Science-Study/tree/master/Data%20Structure)
 
+## Linux
+
 [운영체제](https://github.com/HyangKeunChoi/Computer-Science-Study/tree/master/Operating%20System)
 
 ## Spring
 
 [1. 객체지향 설계와 스프링](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC%20-%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/1.%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%EC%84%A4%EA%B3%84%EC%99%80%20%EC%8A%A4%ED%94%84%EB%A7%81%20.md)
+
+[스프링 부트와 AWS로 혼자 구현하는 웹 서비스](https://github.com/HyangKeunChoi/springboot2-webservice-jojoldubook)
 
 ## Seminar & Conference
 
