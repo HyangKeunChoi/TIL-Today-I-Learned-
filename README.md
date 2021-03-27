@@ -84,3 +84,5 @@
 [[OKKYCON 2021 Live] 협업의 기술](https://geunyang93.tistory.com/57?category=790933)
 
 [YOUTHCON'20 컨퍼런스](https://geunyang93.tistory.com/37?category=790933)
+
+[[OKKYCON: 2018] 정진욱 - 테스트하기 쉬운 코드로 개발하기](https://geunyang93.tistory.com/63)
