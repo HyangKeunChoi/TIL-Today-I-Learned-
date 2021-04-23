@@ -1,6 +1,10 @@
 # TIL(Today I Learn)
 
-[![HitCount](http://hits.dwyl.com/gidrms99@navercom/TIL-Today-I-Learned-.svg)](http://hits.dwyl.com/gidrms99@navercom/TIL-Today-I-Learned-)  ![GitHub](https://img.shields.io/github/license/HyangKeunChoi/TIL-Today-I-Learned-)
+[![Hits](http://hits.dwyl.com/gidrms99@navercom/TIL-Today-I-Learned-.svg)](http://hits.dwyl.com/gidrms99@navercom/TIL-Today-I-Learned-)  ![GitHub](https://img.shields.io/github/license/HyangKeunChoi/TIL-Today-I-Learned-)
+
+##### hits.dwyl.com 사이트가 막혀서 호출안됨, 방문자수 초기화 된것으로 보인다
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyangKeunChoi%2FTIL-Today-I-Learned-&count_bg=%239DC082&title_bg=%2378A3B9&icon=awesomelists.svg&icon_color=%23100F0F&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 
 :book:  :pencil:  :pencil2: :clipboard: 💡 
 
