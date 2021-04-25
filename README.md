@@ -82,6 +82,8 @@
 
 [7. 의존관계 자동 주입](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC%20-%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/7.%20%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84%20%EC%9E%90%EB%8F%99%20%EC%A3%BC%EC%9E%85.md)
 
+[8. 빈 생명주기 콜백](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC%20-%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/8.%20%EB%B9%88%20%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0%20%EC%BD%9C%EB%B0%B1.md)
+
 [스프링 부트와 AWS로 혼자 구현하는 웹 서비스](https://github.com/HyangKeunChoi/springboot2-webservice-jojoldubook)
 
 ## JPA
