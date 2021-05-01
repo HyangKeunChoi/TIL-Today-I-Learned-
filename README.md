@@ -112,3 +112,5 @@
 [[OKKYCON: 2018] 정진욱 - 테스트하기 쉬운 코드로 개발하기](https://geunyang93.tistory.com/63)
 
 [[2월 우아한테크세미나] 우아한 스프링 부트](https://geunyang93.tistory.com/65)
+
+[토스 SLASH21](https://geunyang93.tistory.com/66?category=790933)
