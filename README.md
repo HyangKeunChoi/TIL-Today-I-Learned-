@@ -51,7 +51,7 @@
 
 13주차 : I/O
 
-14주차 : 제네릭
+[14주차 : 제네릭](https://geunyang93.tistory.com/58)
 
 [15주차 : 람다식](https://geunyang93.tistory.com/56)
 
