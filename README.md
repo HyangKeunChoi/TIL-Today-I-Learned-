@@ -63,6 +63,10 @@
 
 [더 자바 애플리케이션을 테스트하는 다양한 방법](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/tree/master/%EB%8D%94%20%EC%9E%90%EB%B0%94%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%84%20%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%98%EB%8A%94%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EB%B0%A9%EB%B2%95)
 
+### 자바카페 공개 스터디
+
+[1. 자바 기본](https://geunyang93.tistory.com/67?category=899241)
+
 ## Spring
 
 [1. 객체지향 설계와 스프링](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC%20-%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/1.%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%EC%84%A4%EA%B3%84%EC%99%80%20%EC%8A%A4%ED%94%84%EB%A7%81%20.md)
@@ -101,6 +105,12 @@
 [초보자를 위한 도커 안내서](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/tree/master/docker/%EC%B4%88%EB%B3%B4%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EB%8F%84%EC%BB%A4%20%EC%95%88%EB%82%B4%EC%84%9C)
 
 ## Vue.js
+
+[1. Vue.js소개](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Vue.js%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/1.%20Vue.js%EC%86%8C%EA%B0%9C.md)
+
+[2. 인스턴스](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Vue.js%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/2.%20%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4.md)
+
+[3. 컴포넌트 소개](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Vue.js%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/3.%20%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%A9%E1%84%82%E1%85%A5%E1%86%AB%E1%84%90%E1%85%B3%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2.md)
 
 ## Seminar & Conference
 
