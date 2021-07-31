@@ -123,3 +123,5 @@
 [[2월 우아한테크세미나] 우아한 스프링 부트](https://geunyang93.tistory.com/65)
 
 [토스 SLASH21](https://geunyang93.tistory.com/66?category=790933)
+
+[[OKKY 7월 세미나] 개발자에게 좋은 이직/퇴사를 위한 꿀팁](https://geunyang93.tistory.com/73)
