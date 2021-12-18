@@ -74,7 +74,7 @@
 
 [5. 코드 효율성](https://geunyang93.tistory.com/72?category=899241)
 
-## Spring
+## Spring Core
 
 [1. 객체지향 설계와 스프링](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC%20-%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/1.%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%EC%84%A4%EA%B3%84%EC%99%80%20%EC%8A%A4%ED%94%84%EB%A7%81%20.md)
 
@@ -92,7 +92,23 @@
 
 [8. 빈 생명주기 콜백](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC%20-%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/8.%20%EB%B9%88%20%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0%20%EC%BD%9C%EB%B0%B1.md)
 
+[9. 프로토타입 스코프](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC%20-%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/9.%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%90%E1%85%A9%E1%84%90%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%B8%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%A9%E1%84%91%E1%85%B3%20-%20%E1%84%89%E1%85%B5%E1%86%BC%E1%84%80%E1%85%B3%E1%86%AF%E1%84%90%E1%85%A9%E1%86%AB%20%E1%84%87%E1%85%B5%E1%86%AB%E1%84%80%E1%85%AA%20%E1%84%92%E1%85%A1%E1%86%B7%E1%84%81%E1%85%A6%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%89%E1%85%B5%20%E1%84%86%E1%85%AE%E1%86%AB%E1%84%8C%E1%85%A6%E1%84%8C%E1%85%A5%E1%86%B7.md)
+
+## Spring MVC
+
 [스프링 부트와 AWS로 혼자 구현하는 웹 서비스](https://github.com/HyangKeunChoi/springboot2-webservice-jojoldubook)
+
+[1. 웹 어플리케이션 이해](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81%20MVC%201%ED%8E%B8-%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20%ED%95%B5%EC%8B%AC%EA%B8%B0%EC%88%A0/1.%20%EC%9B%B9%20%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EC%9D%B4%ED%95%B4.md)
+
+[2. 서블릿](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81%20MVC%201%ED%8E%B8-%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20%ED%95%B5%EC%8B%AC%EA%B8%B0%EC%88%A0/2.%EC%84%9C%EB%B8%94%EB%A6%BF.md)
+
+[3. 서블릿, JSP, MVC 패턴](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81%20MVC%201%ED%8E%B8-%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20%ED%95%B5%EC%8B%AC%EA%B8%B0%EC%88%A0/3.%20%EC%84%9C%EB%B8%94%EB%A6%BF%2C%20JSP%2C%20MVC%20%ED%8C%A8%ED%84%B4.md)
+
+[4. MVC 프레임워크 만들기](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81%20MVC%201%ED%8E%B8-%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20%ED%95%B5%EC%8B%AC%EA%B8%B0%EC%88%A0/4.%20MVC%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
+
+[5. 스프링 MVC - 구조 이해](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81%20MVC%201%ED%8E%B8-%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20%ED%95%B5%EC%8B%AC%EA%B8%B0%EC%88%A0/5.%EC%8A%A4%ED%94%84%EB%A7%81%20MVC%20-%20%EA%B5%AC%EC%A1%B0%20%EC%9D%B4%ED%95%B4.md)
+
+[6. 스프링 MVC - 기본 기능](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81%20MVC%201%ED%8E%B8-%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20%ED%95%B5%EC%8B%AC%EA%B8%B0%EC%88%A0/6.%20%EC%8A%A4%ED%94%84%EB%A7%81%20MVC%20-%20%EA%B8%B0%EB%B3%B8%20%EA%B8%B0%EB%8A%A5.md)
 
 ## 객체지향 - OOP
 
