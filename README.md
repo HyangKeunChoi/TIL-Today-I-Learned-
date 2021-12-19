@@ -127,6 +127,10 @@
 
 [코딩 도장 : 넥슨 입사문제](https://geunyang93.tistory.com/71?category=887117)
 
+[twosum](https://geunyang93.tistory.com/77)
+
+[Best Time to Buy and Sell Stock](https://geunyang93.tistory.com/78)
+
 ## Linux
 [1. 텍스트 처리](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Linux/1.%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EC%B2%98%EB%A6%AC.md)
 
