@@ -164,6 +164,8 @@
 
 ## Seminar & Conference
 
+[YOUTHCON'21 컨퍼런스](https://geunyang93.tistory.com/79)
+
 [[OKKYCON 2021 Live] 협업의 기술](https://geunyang93.tistory.com/57?category=790933)
 
 [YOUTHCON'20 컨퍼런스](https://geunyang93.tistory.com/37?category=790933)
