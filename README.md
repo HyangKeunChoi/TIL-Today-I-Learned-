@@ -113,6 +113,8 @@
 ## Spring Security
 
   + [1. 스프링 시큐리티: 폼 인증](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Spring%20Security/1.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0:%20%ED%8F%BC%20%EC%9D%B8%EC%A6%9D.md)
+  
+  + [2.스프링 시큐리티: 아키텍처](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Spring%20Security/2.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0:%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98.md)
 
 
 ## 객체지향 - OOP
