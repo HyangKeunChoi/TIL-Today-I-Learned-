@@ -140,6 +140,8 @@
 
 ## Design Pattern
   + [Singleton](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Design%20Pattern/1.%20Singleton.md)
+  
+  + [Factory Method](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Design%20Pattern/2.%20Factory%20Method.md)
 
 ## Linux
   + [1. 텍스트 처리](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Linux/1.%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EC%B2%98%EB%A6%AC.md)
