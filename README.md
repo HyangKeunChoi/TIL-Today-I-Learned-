@@ -48,7 +48,7 @@
 
   + [12주차 : 애노테이션](https://geunyang93.tistory.com/54)
 
-  + 13주차 : I/O
+  + [13주차 : I/O](https://geunyang93.tistory.com/59)
 
   + [14주차 : 제네릭](https://geunyang93.tistory.com/58)
 
