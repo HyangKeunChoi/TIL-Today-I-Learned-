@@ -148,6 +148,8 @@
   + [Builder](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Design%20Pattern/4.%20Builder.md)
   
   + [Prototype](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Design%20Pattern/5.%20Prototype.md)
+  
+  + [Adapter](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Design%20Pattern/6.%20Adapter.md)
 
 ## Linux
   + [1. 텍스트 처리](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Linux/1.%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EC%B2%98%EB%A6%AC.md)
