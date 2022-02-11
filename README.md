@@ -154,6 +154,8 @@
   + [Bridge](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Design%20Pattern/7.%20Bridge.md) 
   
   + [Composite](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Design%20Pattern/8.%20Composite.md)
+  
+  + [Decorator](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Design%20Pattern/9.%20Decorator.md)
 
 ## Linux
   + [1. 텍스트 처리](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Linux/1.%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EC%B2%98%EB%A6%AC.md)
