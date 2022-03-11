@@ -162,6 +162,9 @@
   + [2. 검색](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Linux/2.%20%EA%B2%80%EC%83%89.md)
 
   + [3. 시스템 정보](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Linux/3.%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%A0%95%EB%B3%B4.md)
+  
+  + [4.Vim](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Linux/4.%20Vim.md)
+
 ## Node.js
 
   + [1. Node.js 기초](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/NodeJS%20API%20%EC%84%9C%EB%B2%84/1.%20NodeJS%20%EA%B8%B0%EC%B4%88.md)
