@@ -116,6 +116,7 @@
   + [2.스프링 시큐리티: 아키텍처](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Spring%20Security/2.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0:%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98.md)
   
   + [3.웹 어플리케이션 시큐리티](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Spring%20Security/3.%20%EC%9B%B9%20%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0.md)
+  + [4. 스프링 시큐리티 그 밖에](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Spring%20Security/4.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0%20%EA%B7%B8%EB%B0%96%EC%97%90.md)
 
 
 ## 객체지향 - OOP
