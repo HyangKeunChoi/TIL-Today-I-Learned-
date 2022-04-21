@@ -193,6 +193,8 @@
   + [2. 인스턴스](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Vue.js/2.%20%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4.md)
 
   + [3. 컴포넌트 소개](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Vue.js/3.%20%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%A9%E1%84%82%E1%85%A5%E1%86%AB%E1%84%90%E1%85%B3%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2.md)
+  
+  + [4. 컴포넌트 통신 방법 - 기본](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Vue.js/4.%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%ED%86%B5%EC%8B%A0%20%EB%B0%A9%EB%B2%95%20-%20%EA%B8%B0%EB%B3%B8.md)
 
 ## Seminar & Conference
 
