@@ -196,6 +196,8 @@
   
   + [4. 컴포넌트 통신 방법 - 기본](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Vue.js/4.%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%ED%86%B5%EC%8B%A0%20%EB%B0%A9%EB%B2%95%20-%20%EA%B8%B0%EB%B3%B8.md)
 
+  + [5. 컴포넌트 통신 방법 - 응용](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Vue.js/5.%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%ED%86%B5%EC%8B%A0%20%EB%B0%A9%EB%B2%95%20-%20%EC%9D%91%EC%9A%A9.md)
+
 ## Seminar & Conference
 
   + [YOUTHCON'21 컨퍼런스](https://geunyang93.tistory.com/79)
