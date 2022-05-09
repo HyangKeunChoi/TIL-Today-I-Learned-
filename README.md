@@ -198,6 +198,8 @@
 
   + [5. 컴포넌트 통신 방법 - 응용](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Vue.js/5.%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%ED%86%B5%EC%8B%A0%20%EB%B0%A9%EB%B2%95%20-%20%EC%9D%91%EC%9A%A9.md)
 
+  + [6. 라우터](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Vue.js/6.%20%EB%9D%BC%EC%9A%B0%ED%84%B0.md)
+
 ## Seminar & Conference
 
   + [YOUTHCON'21 컨퍼런스](https://geunyang93.tistory.com/79)
