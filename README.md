@@ -75,39 +75,39 @@
 
 ## Spring Core
 
-  + [1. 객체지향 설계와 스프링](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC%20-%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/1.%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%EC%84%A4%EA%B3%84%EC%99%80%20%EC%8A%A4%ED%94%84%EB%A7%81%20.md)
+  + [1. 객체지향 설계와 스프링](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Spring/Spring%20Core%20Principle%20-%20basic/1.%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%EC%84%A4%EA%B3%84%EC%99%80%20%EC%8A%A4%ED%94%84%EB%A7%81%20.md)
 
-  + [2. 스프링 핵심 원리 이해1](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC%20-%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/2.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC%20%EC%9D%B4%ED%95%B41%20-%20%EC%98%88%EC%A0%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
+  + [2. 스프링 핵심 원리 이해1](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Spring/Spring%20Core%20Principle%20-%20basic/2.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC%20%EC%9D%B4%ED%95%B41%20-%20%EC%98%88%EC%A0%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
 
-  + [3. 스프링 핵심 원리 이해2](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC%20-%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/3.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC%20%EC%9D%B4%ED%95%B42%20-%20%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%EC%9B%90%EB%A6%AC%20%EC%A0%81%EC%9A%A9.md)
+  + [3. 스프링 핵심 원리 이해2](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Spring/Spring%20Core%20Principle%20-%20basic/3.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC%20%EC%9D%B4%ED%95%B42%20-%20%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%EC%9B%90%EB%A6%AC%20%EC%A0%81%EC%9A%A9.md)
 
-  + [4. 스프링 컨테이너와 스프링 빈](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC%20-%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/4.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%99%80%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B9%88.md)
+  + [4. 스프링 컨테이너와 스프링 빈](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Spring/Spring%20Core%20Principle%20-%20basic/4.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%99%80%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B9%88.md)
 
-  + [5. 싱글톤 컨테이너](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC%20-%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/5.%20%EC%8B%B1%EA%B8%80%ED%86%A4%20%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88.md)
+  + [5. 싱글톤 컨테이너](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Spring/Spring%20Core%20Principle%20-%20basic/5.%20%EC%8B%B1%EA%B8%80%ED%86%A4%20%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88.md)
 
-  + [6. 컴포넌트 스캔](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC%20-%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/6.%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EC%8A%A4%EC%BA%94.md)
+  + [6. 컴포넌트 스캔](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Spring/Spring%20Core%20Principle%20-%20basic/6.%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EC%8A%A4%EC%BA%94.md)
 
-  + [7. 의존관계 자동 주입](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC%20-%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/7.%20%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84%20%EC%9E%90%EB%8F%99%20%EC%A3%BC%EC%9E%85.md)
+  + [7. 의존관계 자동 주입](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Spring/Spring%20Core%20Principle%20-%20basic/7.%20%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84%20%EC%9E%90%EB%8F%99%20%EC%A3%BC%EC%9E%85.md)
 
-  + [8. 빈 생명주기 콜백](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC%20-%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/8.%20%EB%B9%88%20%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0%20%EC%BD%9C%EB%B0%B1.md)
+  + [8. 빈 생명주기 콜백](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Spring/Spring%20Core%20Principle%20-%20basic/8.%20%EB%B9%88%20%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0%20%EC%BD%9C%EB%B0%B1.md)
 
-  + [9. 프로토타입 스코프](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC%20-%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/9.%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%90%E1%85%A9%E1%84%90%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%B8%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%A9%E1%84%91%E1%85%B3%20-%20%E1%84%89%E1%85%B5%E1%86%BC%E1%84%80%E1%85%B3%E1%86%AF%E1%84%90%E1%85%A9%E1%86%AB%20%E1%84%87%E1%85%B5%E1%86%AB%E1%84%80%E1%85%AA%20%E1%84%92%E1%85%A1%E1%86%B7%E1%84%81%E1%85%A6%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%89%E1%85%B5%20%E1%84%86%E1%85%AE%E1%86%AB%E1%84%8C%E1%85%A6%E1%84%8C%E1%85%A5%E1%86%B7.md)
+  + [9. 프로토타입 스코프](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Spring/Spring%20Core%20Principle%20-%20basic/9.%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%90%E1%85%A9%E1%84%90%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%B8%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%A9%E1%84%91%E1%85%B3%20-%20%E1%84%89%E1%85%B5%E1%86%BC%E1%84%80%E1%85%B3%E1%86%AF%E1%84%90%E1%85%A9%E1%86%AB%20%E1%84%87%E1%85%B5%E1%86%AB%E1%84%80%E1%85%AA%20%E1%84%92%E1%85%A1%E1%86%B7%E1%84%81%E1%85%A6%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%89%E1%85%B5%20%E1%84%86%E1%85%AE%E1%86%AB%E1%84%8C%E1%85%A6%E1%84%8C%E1%85%A5%E1%86%B7.md)
 
 ## Spring MVC
 
   + [스프링 부트와 AWS로 혼자 구현하는 웹 서비스](https://github.com/HyangKeunChoi/springboot2-webservice-jojoldubook)
 
-  + [1. 웹 어플리케이션 이해](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81%20MVC%201%ED%8E%B8-%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20%ED%95%B5%EC%8B%AC%EA%B8%B0%EC%88%A0/1.%20%EC%9B%B9%20%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EC%9D%B4%ED%95%B4.md)
+  + [1. 웹 어플리케이션 이해](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Spring/Spring%20MVC%201-%20Backend%20Web%20Development%20Core%20Technology/1.%20%EC%9B%B9%20%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EC%9D%B4%ED%95%B4.md)
 
-  + [2. 서블릿](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81%20MVC%201%ED%8E%B8-%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20%ED%95%B5%EC%8B%AC%EA%B8%B0%EC%88%A0/2.%EC%84%9C%EB%B8%94%EB%A6%BF.md)
+  + [2. 서블릿](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Spring/Spring%20MVC%201-%20Backend%20Web%20Development%20Core%20Technology/2.%EC%84%9C%EB%B8%94%EB%A6%BF.md)
 
-  + [3. 서블릿, JSP, MVC 패턴](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81%20MVC%201%ED%8E%B8-%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20%ED%95%B5%EC%8B%AC%EA%B8%B0%EC%88%A0/3.%20%EC%84%9C%EB%B8%94%EB%A6%BF%2C%20JSP%2C%20MVC%20%ED%8C%A8%ED%84%B4.md)
+  + [3. 서블릿, JSP, MVC 패턴](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Spring/Spring%20MVC%201-%20Backend%20Web%20Development%20Core%20Technology/3.%20%EC%84%9C%EB%B8%94%EB%A6%BF%2C%20JSP%2C%20MVC%20%ED%8C%A8%ED%84%B4.md)
 
-  + [4. MVC 프레임워크 만들기](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81%20MVC%201%ED%8E%B8-%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20%ED%95%B5%EC%8B%AC%EA%B8%B0%EC%88%A0/4.%20MVC%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
+  + [4. MVC 프레임워크 만들기](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Spring/Spring%20MVC%201-%20Backend%20Web%20Development%20Core%20Technology/4.%20MVC%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
 
   + [5. 스프링 MVC - 구조 이해](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81%20MVC%201%ED%8E%B8-%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20%ED%95%B5%EC%8B%AC%EA%B8%B0%EC%88%A0/5.%EC%8A%A4%ED%94%84%EB%A7%81%20MVC%20-%20%EA%B5%AC%EC%A1%B0%20%EC%9D%B4%ED%95%B4.md)
 
-  + [6. 스프링 MVC - 기본 기능](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81%20MVC%201%ED%8E%B8-%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20%ED%95%B5%EC%8B%AC%EA%B8%B0%EC%88%A0/6.%20%EC%8A%A4%ED%94%84%EB%A7%81%20MVC%20-%20%EA%B8%B0%EB%B3%B8%20%EA%B8%B0%EB%8A%A5.md)
+  + [6. 스프링 MVC - 기본 기능](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/Spring/Spring%20MVC%201-%20Backend%20Web%20Development%20Core%20Technology/6.%20%EC%8A%A4%ED%94%84%EB%A7%81%20MVC%20-%20%EA%B8%B0%EB%B3%B8%20%EA%B8%B0%EB%8A%A5.md)
 
 ## Spring Security
 
@@ -124,7 +124,7 @@
   + [객체지향 프로그래밍 입문](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/tree/master/OOP)
 
 ## JPA
-  + [자바 ORM 표준 JPA 프로그래밍 - 기본편](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/tree/master/%EC%9E%90%EB%B0%94%20ORM%20%ED%91%9C%EC%A4%80%20JPA%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20-%20%EA%B8%B0%EB%B3%B8%ED%8E%B8)
+  + [자바 ORM 표준 JPA 프로그래밍 - 기본편](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/tree/master/JPA/Java%20ORM%20Standard%20JPA%20Programming%20-%20Basic)
 
 ## CS
 
@@ -170,17 +170,17 @@
 
 ## Node.js
 
-  + [1. Node.js 기초](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/NodeJS%20API%20%EC%84%9C%EB%B2%84/1.%20NodeJS%20%EA%B8%B0%EC%B4%88.md)
+  + [1. Node.js 기초](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/NodeJS/NodeJS%20API%20Server/1.%20NodeJS%20%EA%B8%B0%EC%B4%88.md)
 
-  + [2. 노드로 만나는 Hello World](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/NodeJS%20API%20%EC%84%9C%EB%B2%84/2.%20%EB%85%B8%EB%93%9C%EB%A1%9C%20%EB%A7%8C%EB%82%98%EB%8A%94%20Hello%20World.md)
+  + [2. 노드로 만나는 Hello World](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/NodeJS/NodeJS%20API%20Server/2.%20%EB%85%B8%EB%93%9C%EB%A1%9C%20%EB%A7%8C%EB%82%98%EB%8A%94%20Hello%20World.md)
 
-  + [3. 익스프레스 (ExpressJS) 기초](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/NodeJS%20API%20%EC%84%9C%EB%B2%84/3.%20%EC%9D%B5%EC%8A%A4%ED%94%84%EB%A0%88%EC%8A%A4%20(ExpressJS)%20%EA%B8%B0%EC%B4%88.md)
+  + [3. 익스프레스 (ExpressJS) 기초](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/NodeJS/NodeJS%20API%20Server/3.%20%EC%9D%B5%EC%8A%A4%ED%94%84%EB%A0%88%EC%8A%A4%20(ExpressJS)%20%EA%B8%B0%EC%B4%88.md)
 
-  + [4. npm](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/NodeJS%20API%20%EC%84%9C%EB%B2%84/4.%20npm.md)
+  + [4. npm](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/NodeJS/NodeJS%20API%20Server/4.%20npm.md)
 
-  + [5. REST API란?](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/NodeJS%20API%20%EC%84%9C%EB%B2%84/5.%20REST%20API%EB%9E%80.md)
+  + [5. REST API란?](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/NodeJS/NodeJS%20API%20Server/5.%20REST%20API%EB%9E%80.md)
 
-  + [6. TDD(Test Driven Development)](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/NodeJS%20API%20%EC%84%9C%EB%B2%84/6.%20TDD(Test%20Driven%20Development).md)
+  + [6. TDD(Test Driven Development)](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/blob/master/NodeJS/NodeJS%20API%20Server/6.%20TDD(Test%20Driven%20Development).md)
 
 ## Docker
 
