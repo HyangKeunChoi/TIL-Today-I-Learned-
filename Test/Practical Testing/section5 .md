@@ -41,7 +41,12 @@
 + Post요청의 경우 브라우저에서 테스트하기 어려움
   - order.http파일 생성
  
+## Business  Layer 테스트3
 
++ @Transactional vs deleteAllInBatch() 데이터 클랜징 차이
+  - @Transacional을 테스트 클래스에 달면 서비스 레이어에 @Transcational이 설정된 것 처럼 보이게 됨
+  - 쓰지 않자가 아니고 잘 써야한다!
 
-
+## Presentation Layer 테스트1
++ presentation  layer를 테스트할때는 business, persistence layer는 mocking 처리한다.
 
