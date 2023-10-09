@@ -47,6 +47,10 @@
   - @Transacional을 테스트 클래스에 달면 서비스 레이어에 @Transcational이 설정된 것 처럼 보이게 됨
   - 쓰지 않자가 아니고 잘 써야한다!
 
+- readOnly= true // CURD에서 CUD 동작 X / only Read
+  - jpa에서 CUD 스냅샷 저장, 변경감지 X
+  - CQRS - Command / Read 분리
+
 ## Presentation Layer 테스트1
 + presentation  layer를 테스트할때는 business, persistence layer는 mocking 처리한다.
 
