@@ -54,3 +54,10 @@
 ## Presentation Layer 테스트1
 + presentation  layer를 테스트할때는 business, persistence layer는 mocking 처리한다.
 
+## Presentation Later 테스트2
++ @WebMvcTest : controller의 mock객체를 쓰기위한 테스트
+  - @WebMvcTest(controllers = ProductController.class)
++ @MockBean : 컨테이너에 mock객체를 넣어줌
+  - @MockBean ProductService productservice;
++ @Mock
+  
