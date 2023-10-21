@@ -94,3 +94,50 @@ fun main(): Unit = runBlocking {
 + CoroutineStart.LAZY 옵션을 사용하면, await()함수를 호출했을 떄 계산 결과를 계속 기다린다.
 + CoroutineStart.LAZY 옵션을 사용 후 start() 함수를 한번 호출해주면 괜찮다.
 
+## 코루틴 취소
++ 코루틴을 적절히 취소하는 것은 중요하다.
++ 필요하지 않은 코루틴은 적절히 취소해 컴퓨터 자원을 아껴야 한다.
++ cancel() 함수를 활용하면 되지만..
+  - 코루틴도 취소에 협조해 주어야 한다.
+
+## 취소에 협조하는 방법 1
++ delay()나 yield()같은 kotlinx.coroutines 패키지의 suspend 함수 사용
+
+## 취소에 협조하는 방법 2
++ 코루틴 스스로 본인의 상태를 확인해 취소 요청을 받았으면, CancellationException을 던지기
+  - isActive : 현재 코루틴이 활성화 되어 있는지, 취소 신호를 받았는지
+  - Dispatchers.Default : 우리의 코루틴을 다른 스레드에 배정
+ 
+## 코루틴의 예외처리와 Job의 상태 변화
+
+### launch와 async의 예외 발생 차이
++ launch : 예외가 발생하면, 예외를 출력하고 코루틴이 종료
++ async : 예외가 발생해도, 예외를 출력하지 않음. 예외를 확인하려면, await()이 필요하다
+
+### 자식 코루틴의 예외는 부모에게 전파된다.
++ launch건 async건 자식 코루틴의 예외는 부모에게 전파된다.
+
+### 만약 자식 코루틴의 예외를 부모에게 전파하기 싫다면?
++ 루트 코루틴을 만드는거 외에 SupervisorJob()을 이용하는 방법도 있다.
+
+### 예외를 다루는 방법
+1. 직관적인 try-catch-finally
+2. CoroutineExceptionHandler를 이용
+
+![image](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/assets/49984996/37b757d3-d0e8-48b3-8f4a-0b7e246f8db3)
+
+### CoroutinExceptionHandler 주의할 점
+1. launch에만 적용 가능하다
+2. 부모 코루틴이 있으면 동작하지 않는다.
+
+### 궁금한점
++ 취소도CancellationException이라는 예외였는데 일반적인 예외랑 어떻게 다른걸까?
+
+1. case 1 : 발생한 예외가 CancellationException인 경우 취소로 간주하고 부모 코루틴에게 전파 X
+2. case 2 : 그 외 다른 예외가 발생한 경우 실패로 간주하고 부모 코루틴에게 전파 X
+
++ 다만 내부적으로는 취소나 실패 모두 "취소됨" 상태로 관리한다.
+
+![image](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/assets/49984996/09137a5e-dd72-4129-b757-27e676d8129c)
+
+> 그 이유는 다음시간..
