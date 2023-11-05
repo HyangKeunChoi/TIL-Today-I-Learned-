@@ -14,3 +14,21 @@
 + automaticTransitionFromOpenToHalfOpenEnabled : 자동으로 halfOpen 으로 갈지 말지
 + slowCallDurationThreshold : 슬로우 call을 몇초로 간주할 건지
 + slowCallRateThreshold : 느린 호출의 비율이 몇 이상으로 간주할 건지
+
+### 주요 설정 알아보기
+
++ onEvent
++ onSuccess
++ onCallNotPermitted : 서킷프레이커가 오픈되어 요청이 차단될때 실행되는 이벤트 핸들러
++ onError
++ onIgnoredError : ignore exception이 발생했을때 실행되는 이벤트 핸들러
++ onStateTransition
++ onSlowCallRateExceeded
++ onFailureRateExceeded
+
+## 이벤트 핸들러를 어떻게 활용할 것인가?
+1. 로그로 남겨서 모니터링할때 사용한다.
+2. 특정 서버에서 state transition이 발생해서 open상태가 되었을때 이벤트 핸들러를 통해 다른 서버들도 상태를 전파 받을 수 있다.
+
+## 서킷의 상태를 어떻게 강제로 바꾸나요?
++ actuator
