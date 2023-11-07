@@ -32,3 +32,11 @@
 
 ## 서킷의 상태를 어떻게 강제로 바꾸나요?
 + actuator
+
+## 어떤 예외를 recordException으로 지정할까?
+
+### 주의할 예외
++ 유효성 검사나 NullPointerException처럼 서킷이 열리는 것과 무관한 예외는 recordExceptions로 등록X
++ Exception이나 RuntimeException처럼 너무 높은 수준의 예외 역시 recordExceptions로 등록 X
++ slow call에만 의존하지 말기
+  - 타임아웃 걸어서 예외 던져주기
