@@ -40,3 +40,17 @@
 + Exception이나 RuntimeException처럼 너무 높은 수준의 예외 역시 recordExceptions로 등록 X
 + slow call에만 의존하지 말기
   - 타임아웃 걸어서 예외 던져주기
+
+## fallback 활용하기
+
+#### fallback 메서드가 실행되는 경우
+1. Record Exception이 발생했을 떄
+2. Ignore Exception이 발생했을 때
+3. 서킷이 OPEN되어 요청이 실행되지 않을 때
+
+#### fallback으로 할 수 있는 일
++ 로깅 or DB에 저장
++ 실패 했던 요청을 모아서 재시도
++ 클라이언트에 반환
+  - 저장소에 있는 데이터를 조회하지 못하면 캐시 데이터 라도 조회해서 반환
+ 
