@@ -5,3 +5,16 @@
 
 + 분산환경에서의 서버들이 공통으로 사용할 수 있는 해시 테이블로 생각
 + 오픈 소스 인메모리 저장소 - 램에 저장
+
+## 특징
+1. in-memory : 모든 데이터를 RAM에 저장 (백업/ 스냅샷 제외)
+2. single threaded : 단일 thread에서 모든 task 처리
+3. cluster mode : 다중 노드에 데이터를 분산 저장하여 안정성, 고가용성 제공
+4. persistence : RDB(Redis Database) + AOF(Append only file) 통해 영속성 옵션 제공
+5. pub/sub : pub/sub 패턴을 지원하여 손쉬운 어플리케이션 개발 (채팅, 알림 등)
+
+## 장점
++ 높은 성능 : 모든 데이터를 메모리에 저장하기 때문에 빠른 읽기/쓰기
++ Data Type 지원 : Redis에서 지원하는 Data type을 잘 활용하여 다양한 기능 구현
++ 클라이언트 라이브러리 지원 : python, java, javascript 등 다양한 언어로 작성된 클라이언트 라이브러리 지원
++ 다양한 사례 / 강한 커뮤니티 : Redis를 활용하여 비슷한 문제를 해결한 사례가 많고, 커뮤니티 도움 받기 쉽다.
