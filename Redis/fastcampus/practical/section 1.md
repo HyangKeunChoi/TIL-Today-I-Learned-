@@ -18,3 +18,11 @@
 + Data Type 지원 : Redis에서 지원하는 Data type을 잘 활용하여 다양한 기능 구현
 + 클라이언트 라이브러리 지원 : python, java, javascript 등 다양한 언어로 작성된 클라이언트 라이브러리 지원
 + 다양한 사례 / 강한 커뮤니티 : Redis를 활용하여 비슷한 문제를 해결한 사례가 많고, 커뮤니티 도움 받기 쉽다.
+
+
+## 사용사례
++ Caching : 임시 비밀번호, 로그인 세션 등등
++ Rate Limiter : Fixed-Window / Sliding-Window Rate Limiter (비율 계산기)
++ Message Broker : 메시지 큐 (Message Queue)
++ 실시간 분석 / 계산 : 순위 표(Rank), 반경 탐색(Geofencing), 방문자 수 계산(Visitors Count)
++ 실시간 채팅 : Pub/Sub 패턴
