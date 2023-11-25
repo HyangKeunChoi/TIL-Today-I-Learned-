@@ -26,3 +26,17 @@
 + Message Broker : 메시지 큐 (Message Queue)
 + 실시간 분석 / 계산 : 순위 표(Rank), 반경 탐색(Geofencing), 방문자 수 계산(Visitors Count)
 + 실시간 채팅 : Pub/Sub 패턴
+
+## 영속성에 대해
++ Persistence : Redis는 주로 캐시로 사용되지만 데이터 영속성을 위한 옵션 제공
+  - SSD와 같은 영구 적인 저장 장치에 데이터 저장
+
+## 영속성 적용 방식들
++ RDB(Redis Database) : Point-in-time snapshot -> 재난 복구 또는 복제에 주로 사용
+  - 일부 데이터 유실 위험이 있고, 스냅샷 생성 중 클라이언트 요청 지연 발생
+
++ AOF(Append Only File)
+  - Redis에 적용되는 Write작업을 모두 log로 저장
+  - 데이터 유실의 위험이 적지만, 재난 복구시 Write 작업을 다시 적용하기 때문에 RDB보다 느림
+ 
++ RDB + AOF : 함께 사용
