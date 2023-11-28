@@ -52,3 +52,12 @@
 + 데이터 베이스 캐싱 : 데이터베이스 조회나 계산 결과를 저장하여 재요청시 사용
 + CDN : 원본 서버의 컨텐츠를 PoP 서버에 저장하여 사용자와 가까운 서버에서 요청 처리
 + 어플리케이션 캐싱 : 어플리케이션에서 데이터나 계산 결과를 캐싱하여 반복적 작업 최적화
+
+## Cache Hit & Cache Miss
++ Cache Hit : 캐시가 있을때
++ Cache Miss : 캐시가 없을때
+
+## Cache Aside pattern
++ Cache Hit이면 캐시 리턴
++ 원본에서 데이터를 조회하여 캐싱처리
+  - 그외 write through, write behind 등등 여러가지 패턴이 있다
