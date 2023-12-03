@@ -27,3 +27,16 @@
 + LRANGE queue 2 3 : job3 job2 출력
 + LTRIM queue 0 1 : OK
 + LRANGE queue 0 -1 : job5 job4만 남는다
+
+## Sets
++ Sets : Unique string을 저장하는 정렬되지 않은 집합
+
+## 명령어
++ SADD : 값 추가
++ SMEMBERS : 모든 멤버 조회
++ SCARD : set의 카디널리티 출력 (고유한 아이템의 갯수)
++ SISMEMBER : 값이 있는지 확인
++ SINTER : 공통을 출력 (교집합)
++ SDIFF : 차이를 출력 (차집합)
++ SUNION : 합집합 출력
+
