@@ -40,3 +40,10 @@
 + SDIFF : 차이를 출력 (차집합)
 + SUNION : 합집합 출력
 
+## hashes
++ field-value 구조를 갖는 데이터 타입
+  - 다양한 속성을 갖는 객체의 데이터를 저장할 때 유용
++ HSET lecture name inflearn-reids price 100 language ko : lecture라는 키로 3개의 필드 저장
++ HGET lecture name : 하나의 필드 조회
++ HMGET lecture price language invalid : 다수의 필드 조회
++ HINCRBY lecture price 10 : 숫자형으로 저장된 string value를 특정 값만큼 더하는 명령어
