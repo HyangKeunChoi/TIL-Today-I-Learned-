@@ -47,3 +47,16 @@
 + HGET lecture name : 하나의 필드 조회
 + HMGET lecture price language invalid : 다수의 필드 조회
 + HINCRBY lecture price 10 : 숫자형으로 저장된 string value를 특정 값만큼 더하는 명령어
+
+## Sorted Sets = ZSets
++ ZSets : 중복없는 Unique한 String을 저장하지만 score라는 추가적인 속성이 있어서 socre를 통해 정렬된 집합 (Set의 기능 + 추가로 score 속성 저장)
++ 내부적으로 Skip List + Hash Table로 이루어져 있고, score 값에 따라 정렬 유지
++ score가 동일하면 lexicographically(사전 편찬 순) 정렬
++ ZADD points 10 TeamA 10 TeamB 50 TeamC
+
+![image](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/assets/49984996/87df7ea7-bab5-43d5-8e15-3d67115f1790)
+
++ ZSets은 순서를 갖기때문에 Range로 범위 조회 가능
++ ZRANGE points 0 -1
++ ZRANGE points 0 -1 REV WITHSCORES
++ ZRANK points TeamA
