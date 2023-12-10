@@ -76,3 +76,8 @@
 + XDEL events ID
   - events 삭제
 
+## Geospatials
++ Geospatial Indexes : 좌표를 저장하고, 검색하는 데이터 타입, 거리 계산, 범위 탐색 등 지원
++ GEOADD seoul:station
++ GEODIST seoul:station hong-dae gang-nam KM(단위: 키로미터)
+  - 거리 차이
