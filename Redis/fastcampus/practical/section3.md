@@ -60,3 +60,19 @@
 + ZRANGE points 0 -1
 + ZRANGE points 0 -1 REV WITHSCORES
 + ZRANK points TeamA
+
+## Streams
++ append-only log에 consumer groups과 같은 기능을 더한 자료 구조
+  - append-only 란? 데이터 저장 알고리즘에서 데이터가 수정되거나 삭제되지 않고 항상 추가만 되는 구조
++ 추가 기능 1 : unique id를 통해 하나의 entry를 읽을 때, O(1) 시간 복잡도
++ 추가 기능 2 : Consumer Group을 통해 분산 시스템에서 다수의 consumer가 event 처리
+
+<img width="697" alt="image" src="https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/assets/49984996/a9ef489d-9f58-4522-bfca-e2452d642fb3">
+
+### 명령어
++ XADD events * action like user_id 1 product_id 1
++ XRANGE events - +
+  - 가장 처음에 들어갔던 이벤트 부터 마지막 이벤트까지 출력
++ XDEL events ID
+  - events 삭제
+
