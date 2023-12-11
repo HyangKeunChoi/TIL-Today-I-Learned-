@@ -81,3 +81,12 @@
 + GEOADD seoul:station
 + GEODIST seoul:station hong-dae gang-nam KM(단위: 키로미터)
   - 거리 차이
+
+## Bitmaps
++ 실제 데이터 타입은 아니고, String에 binary operation을 쉽게 사용할 수 있게 만들어 놓은 인터페이스라 생각
++ 최대 42억개 binary 데이터 표현 = 2의 32승
++ SETBIT user:log-in:23-01-01 123 1
++ SETBIT user:log-in:23-01-01 456 1
++ BITCOUNT user:log-in:23-01-01
++ BITOP AND result user:log-in:23-01-01 user:log-in:23-01-02
++ GETBIT result 123
