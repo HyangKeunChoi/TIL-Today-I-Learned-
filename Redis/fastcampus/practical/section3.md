@@ -90,3 +90,13 @@
 + BITCOUNT user:log-in:23-01-01
 + BITOP AND result user:log-in:23-01-01 user:log-in:23-01-02
 + GETBIT result 123
+
+## HyperLogLog
++ 집합의 cardinality를 추정할 수 있는 확률형 자료구조
++ 정확성을 일부 포기하는 대신 저장공간을 효율적으로 사용(평균에러 0.81%)
+  - 근사치만 알아도 되는 경우에 사용
++ 원리 : 멤버의 값을 해싱하여 버킷이라는 단위로 준비해서 해시값에 맞게 표시
+  - 해시 충돌이 일어나는 경우 정확하지 않은 값 반환
+  - 실제 값을 저장하지 않기 때문에 매우 적은 메모리 사용, 모든 아이템을 출력하는 경우에는 활용할 수 없다.
++ PFADD fruits apple orange grape kiwi
++ PFCOUNT fruits
