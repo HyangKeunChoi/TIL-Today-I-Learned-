@@ -100,3 +100,11 @@
   - 실제 값을 저장하지 않기 때문에 매우 적은 메모리 사용, 모든 아이템을 출력하는 경우에는 활용할 수 없다.
 + PFADD fruits apple orange grape kiwi
 + PFCOUNT fruits
+
+## BloomFilter
++ element가 집합 안에 포함되어 있는지 확인할 수 있는 확률형 자료 구조 (=membership test라는 기능 구현할때 사용)
++ 정확성을 일부 포기하는 대신 저장공간을 효율적으로 사용
++ false positive 문제 : element가 집합에 실제로 포함되지 않는데 포함 되었다고 잘못 예측하는 경우
++ vs set : 실제 값을 저장하지 않기 때문에 Set에 비해 매우 적은 메모리 사용
++ BF.MADD fruits apple orange
++ BF.EXISTS fruits apple
