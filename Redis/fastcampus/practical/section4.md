@@ -11,3 +11,12 @@
 + EXPIRE greeting 10
 + TTL greeting
 + SETEX greeting 10 hello : 데이터 저장 + 만료시간 설정
+
+## SET NX/XX
++ NX : 해당 Key가 존재하지 않는 경우에만 SET
++ XX : 해당 Key가 이미 존재하는 경우에만 SET
+
+> NX또는 XX의 SET이 동작하지 않는 경우 nil 응답한다.
+
++ SET greeting hello NX
++ SET greeting hi XX
