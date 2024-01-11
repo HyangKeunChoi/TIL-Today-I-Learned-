@@ -16,3 +16,27 @@
 + 하이퍼 바이저가 게스트 OS와 호스트 OS의 중간 다리(마치 통역)역할을 한다.
 
 ![image](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/assets/49984996/2d51bdb2-c9a6-4451-b8fa-74503611570e)
+
+## 컨테이너 가상화 (도커)
++ 하이퍼 바이저 가상화보다 선호됨
+  - 이유 1 : 가볍다
+  - 이유 2 : 빠르다
+ 
++ LXC 기술을 이용
++ 컨테이너 가상화는 하이퍼바이저가 필요없이 커널 자체의 기술로 가상화
++ 모든 컨테이너가 하나의 커널을 공유
+
+![image](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/assets/49984996/9e1b8038-93a7-417c-a5c6-ac50350a577b)
+
+![image](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/assets/49984996/a04629c9-8003-4d2a-a7b5-1fb52950aa95)
+
++ 적은 오버헤드, 빠른 부팅 (하이퍼바이저 가상화 보다)
+
+## 도커
+
+![image](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/assets/49984996/11171acb-2924-423d-898f-b1aedb0f9edf)
+
+![image](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/assets/49984996/f0f0ab30-6368-4af6-9079-d3d8226d7ee7)
+
++ docker version
++ docker info
