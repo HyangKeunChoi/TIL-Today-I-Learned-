@@ -40,3 +40,13 @@
 
 + docker version
 + docker info
++ docker --help
+
+## 도커 명령어 형태
++ docker (management command - 생략 가능) command 형태이다.
+  - docker container run
+  - docker run 과 같다.
+ 
++ docker run  이미지명 : 컨테이너 실행
++ docker rm 컨테이명/ID : 컨테이너 삭제
++ docker run -p 80:80 --name hellonginx nginx
