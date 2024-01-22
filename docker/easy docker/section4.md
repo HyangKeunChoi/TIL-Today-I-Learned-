@@ -72,3 +72,9 @@
 + docker build -t 레지스트리계정명/buildnginx .
 
 ![image](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/assets/49984996/8fdd08c2-454e-4427-b438-1eba87e0d928)
+
+## 빌드 컨텍스트
++ 빌드 컨텍스트란 ? 이미지를 빌드할때 사용하는 폴더
+
+![image](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/assets/49984996/302c135f-8fff-40a9-b648-09c9d3a93eb3)
+
