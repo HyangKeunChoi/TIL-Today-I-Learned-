@@ -78,3 +78,60 @@
 
 ![image](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/assets/49984996/302c135f-8fff-40a9-b648-09c9d3a93eb3)
 
+## 도커파일 지시어
++ Node.js 애플리케이션을 구성하는 과정에 대한 이미지
+
+![image](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/assets/49984996/51123ccf-cec2-40f0-a6c7-aa73aece4afb)
+
++ 이미지 빌드 vs 애플리케이션 빌드
++ 애플리케이션 빌드 : 소스코드를 실행 가능한 프로그램으로 빌드를 말함
++ 도커 이미지를 빌드할때 애플리케이션 빌드를 포함해야 한다.
+
+### 도커파일 지시어
+
+![image](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/assets/49984996/6824cdeb-bd95-4169-b989-a3ec9c84f910)
+
++ docker build -f 도커파일명 -t 이미지명 Dockerfile 경로
++ -f 옵션 : 도커파일명이 Dockerfile이 아닌 경우 별도 지정
+
+### 시스템과 관련된 지시어
+
+![image](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/assets/49984996/745edeba-052f-4437-ab58-6d63ab8b557c)
+
++ WORKDIR : 이 경로에서 부터 모든 명령어를 실행 (보통 FROM다음에 바로 작성)
++ EXPOSE : 사용할 포트 명시
+
+![image](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/assets/49984996/9362bdb1-80fc-40e4-928c-d9aac4d14adc)
+
+### 환경 변수와 관련된 지시어
+
+![image](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/assets/49984996/f9c2b961-e501-4c13-91e8-0f2b1fccea5e)
+
+### 프로세스 실행과 관련된 지시어
++ entrypoint : 중복된 명령어를 지정하는 명령어
+  - 예를들어 npm start, npm install에서 npm이 중복됨
+
+![image](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/assets/49984996/8fb2df8d-d3a6-48b7-b612-14cae30c75e1)
+
+## 멀티 스테이지 빌드(Multi-Stage Build)
++ 멀티 스테이지 빌드 : 두개의 base image를 이용하는 방법
+  - 이미지를 빌드에 사용하는 이미지, 실행에 사용하는 이미지로 분리
+  - 보통 실행하는데 사용하는 이미지의 크기가 생각보다 크기 때문에
+
++ 백엔드 spring boot application 이미지 구성하기
+![image](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/assets/49984996/cebc3dcd-7214-450e-9e6c-127cb8e3bae8)
+
+### Singlestage 방법
+
+![image](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/assets/49984996/8ccec53d-23c6-4c1f-9bce-0594686eecf2)
+
++ 메이븐같은 경우의 도구도 빌드에만 쓰이고 실제 애플리케이션을 실행하는 것과는 무관
+
+### MultiStage 방법
+
+![image](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/assets/49984996/d6912c14-bd24-48e7-904f-36187cb4a072)
+
+![image](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/assets/49984996/4233a97d-882e-4c63-badc-91c4a507cf06)
+
++ FROM AS build 부분이 COPT --from=build의 이름으로 지정된 것으로 보면 된다.
+
