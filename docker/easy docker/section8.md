@@ -31,3 +31,45 @@
 ![image](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/assets/49984996/d7e55ac3-db08-4e5c-98a0-c190d32a3d74)
 
 ## TOPIC 3 Tier 아키텍처 구성
++ 3 Tier : 프론트, 백엔드, db 서버가 유기적으로 구성되어 관리되는 어플리케이션 아키텍쳐
++ 백엔드 애플리케이션이 외부에 노출되어 있을 경우 개발자가 의도하지 않은 API를 호출할 위험이 있습니다.
+
+![image](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/assets/49984996/a8494110-e937-4763-82ea-ee77008b4fe3)
+
++ Nginx의 프록시 기술을 활용해 보안에 뛰어난 3Tier 아키텍처를 구성할 수 있습니다.
++ Nginx는 특정 경로로 온 요청(/api로 시작하는 경로)를 지정한 서버로 전달합니다.
++ Nginx를 프록시 서버로 활용하여 보안 향상, 부하 관리 및 API 응답을 캐싱을 활용할 수 있습니다.
+
+![image](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/assets/49984996/c749a159-b278-4b27-ae4a-8ea31ad9d392)
+
+## 이중화 DB 구성
+
+![image](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/assets/49984996/cc604de8-5c91-457f-8f26-0862b02421a3)
+
+![image](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/assets/49984996/4d1d5d71-c9de-4107-a8bd-ad4542d4c832)
+
+## TOPIC 6 컨테이너 애플리케이션 최적화
+
+![image](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/assets/49984996/37fc08f9-7191-4818-82fc-f8bba6ff1981)
+
+### 도커 사용량 조회 명령어
++ docker stats (컨테이너명/ ID)
++ docker events : HOST OS에서 발생하는 이벤트 로그 조회
+
+![image](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/assets/49984996/804450e1-1750-4a46-8a22-9e24808f60e9)
+
+![image](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/assets/49984996/5131bf0c-a86c-475d-a508-f110f52a5f2e)
+
+### 자바 JVM 튜닝
+
+![image](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/assets/49984996/3bc5977f-ce33-48a0-972c-f5bdc431a051)
+
+## JVM 자동으로 힙메모리 설정
+
+![image](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/assets/49984996/dd44de1d-ed1e-42b1-8a77-4c68e6a2a456)
+
+## TOPIC 7 컨테이너 내부에서 개발하기
+
+![image](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/assets/49984996/6663fd66-33e3-4d45-846a-c3483b07b255)
+
+## java, intellij 컨테이너 활용 및 원격 디버깅
