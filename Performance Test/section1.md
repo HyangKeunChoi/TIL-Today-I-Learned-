@@ -33,3 +33,9 @@
 
 ![image](https://github.com/HyangKeunChoi/TIL-Today-I-Learned-/assets/49984996/723d8bf0-2844-4261-9bfe-53ca2f3d5a66)
 
+## 데이터 베이스
++ 지연시간이 길어지는 상황 : 많은 요청이 들어올때
++ 많은 데이터 중 특정 데이터를 찾아야 할때
++ 락이 너무 자주 걸리는 경우
++ SSD가 HDD보다 빠르고, 용량 작고 비싸다
+
