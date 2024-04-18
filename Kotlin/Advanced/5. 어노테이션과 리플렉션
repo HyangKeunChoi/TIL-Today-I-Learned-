@@ -1,0 +1,32 @@
+## 코틀린 어노테이션
++ retention
++ target
+
+### KClass (리플렉션 객체)
++ 코드로 작성한 클래스를 표현한 클래스
+  - 코드로 작성한 정보를 어딘가 저장하고 있는데 이 KClass라는곳에 저장하고 있다.
+    - 무슨 프로퍼티를 갖고 있는지 어떤 함수를 갖고 있는지 등등
+
+### 배열 어도테이션
++ @Shape(["A", "B"})
+
+### user-site-target
++ @get:Shape
+
+### Repeatable 어노테이션
++ 같은 어노테이션을 여러번 붙일 수 있는 어노테이션
+
+## 코틀린의 리플렉션
++ KClass (코틀린 리플렉션), Class (자바 리플렉션)
+  - KType : 널 타입인지 등등
+  - KParameter
+  - KTypeParamter
+  - KCallable
+  - KFunction
+  - KClassifier
+  - KProperty 등등..
+  
++ KClass<out Reflection>
++ Class.forName
+
+### 22, 23 
