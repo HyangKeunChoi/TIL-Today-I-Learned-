@@ -133,3 +133,75 @@
 + DB연동 / 타 서비스 연계된 기능 비교는 성능 테스트 도구 활용
 
 #### Gatling
+
+## GC
++ 더이상 사용하지 않는 객체를 청소
++ Miner GC(Young GC) : eden, survior
+  - 생긴지 얼마 안된 객체는 보통 eden으로 간다.
+  - 보통 eden에서 survivor로 계속 이동한다.
+  - 그 다음 survivor로 계속 이동
++ Major GC(Full GC) : old, metaspace
+
+#### 왜 영역을 나누어 놓은것인가
++ 대부분은 minor에서 사라짐
++ 계속 살아있는것들만 old에서 체크
++ jstat을 활용하면 jvm을 쉽게 모니터링할 수 있다.
+
+#### GC 종류
++ Serial GC : 옛날 GC
++ Parallel Collector : 컴팩션 작업이 필요
++ G1 GC : 일반적인 GC
++ Shenandoah GC
++ ZGC
++ GC는 하나만 쓸 수 있다.
+
+### FAQ
++ GC옵션은 모든 서비스에서 동일하게 설정했는데 그래도 되나요?
+  - 모르겠으면 useG1Gc만 쓰는거 추천
+  - 프로그램마다 메모리 차지하는 게 다르니까 각 특징에 맞는 GC쓰는게 좋다.
+
++ Old 영역 메모리 사용량이 늘어나기만 해요
+  - Full Gc해서 30프로 만 계속 남는다면 그건 일반적인 현상
+  - 힙 덤프 떠서 확인 해야함 (힙덤프 뜨면 멈추니까 주의)
+
++ Concurrent Mark and Sweap이라는것도 있던데요?
+  - 이를 보완한게 G1GC이므로 이걸 쓰는걸 추천
+ 
++ GC시간 때문에 고려해야할 것은?
+  - 타임아웃시간이 GC시간보다 많은지 확인 > 많으면 괜찮, 적으면 문제
+
++ G1GC 이후의 가비지 컬렉터를 사용할 경우에는 웬만하면 튜닝하려고 하지말것
+
+#### jstats 모니터링 방법
+
+## 자바 개발하면서 성능상 유의할 점
+1. String - StringBuilder, StringBuffer, StringJoiner
+
+2. stream vs parallelStream - parallelStream에서 스레드 풀이 코어 갯수만큼 씀
+- 웹 개발하면서는 parallelStream 쓰지말자
+- 배치에서 사용하고 싶으면 parallel stream support를 쓰자
+   
+3. Date format이 문제가 되는 이유
+- 서버와 서버간의 통신할때는 json이나 xml을 쓰지 말아야 한다.
+- 메모리를 너무 많이 잡아 먹는다.
+- 대안 : protobuf, gRPC
+
+4. Log는 반드시 필요한 곳에서만 사용한다.
+
+#### 개발보다 더 중요한 성능에 영향을 주는 설정
++ Thread pool
++ DB connection pool
+
+#### Thread pool 개수를 너무 작게 잡으면
++ 요청을 처리하지 못하고 대기하게 됨
++ 요청이 많을수록 CPU 사용량이 더 이상 증가하지 않음
+
+#### DB connection pool
+
+## Troubleshooting 개요
+
+#### thread 문제가 있는지 확인하는 법
++ Thread dump : 어떤 스레드가 어떤 작업을 하고 있는지, 현재 시점의 상태를 덤프
++ jstack [pid] : 일반적인 스레드 덤프 뜨는법
++ kill -3 [pid]
+  - -9옵션은 사용하면 안된다!
